@@ -1,0 +1,45 @@
+.ProductDisplay .add-btn{
+    background-color: rgb(215, 198, 253);
+    height: 100px;
+    
+}
+
+.ProductDisplay .add-btn button{
+    float: right;
+    border: none;
+    margin-top: 20px;
+    margin-right: 40px;
+    background-color:white ;
+    box-shadow: 0 6px 10px 0 rgba(0,0,0,0.2);
+    border-radius: 10px;
+}
+
+.add-img{
+    height: 20px;
+    
+}
+
+.ProductDisplay .allProductContainer{
+    background-color:rgb(215, 198, 253);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    /* margin-top: 20px; */
+}
+
+.dropcat{
+    height: 50px;
+    padding: 10px;
+    background-color:rgb(215, 198, 253);
+    display: flex;
+    flex-direction: row;
+}
+
+#dropdown-basic-button{
+    color: rgb(85, 47, 167);
+    background-color:white;
+    float: left;
+    margin-right: 50px;
+}

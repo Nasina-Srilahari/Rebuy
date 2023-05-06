@@ -1,0 +1,52 @@
+const Product_data = [
+    {
+        id:1,
+        product_name:"Harry-Potter",
+        description:"amazing fiction story",
+        Price:1000,
+        currency:"Rs",
+        thumb:"./images/1.png"
+    },
+    {
+        id:2,
+        product_name:"Harry-Potter",
+        description:"amazing fiction story",
+        Price:1000,
+        currency:"Rs",
+        thumb:"./images/1.png"
+    },
+    {
+        id:3,
+        product_name:"Harry-Potter",
+        description:"amazing fiction story",
+        Price:1000,
+        currency:"Rs",
+        thumb:"./images/1.png"
+    },
+    {
+        id:4,
+        product_name:"Harry-Potter",
+        description:"amazing fiction story",
+        Price:1000,
+        currency:"Rs",
+        thumb:"./images/1.png"
+    },
+    {
+        id:5,
+        product_name:"Harry-Potter",
+        description:"amazing fiction story",
+        Price:1000,
+        currency:"Rs",
+        thumb:"./images/1.png"
+    },
+    {
+        id:6,
+        product_name:"Harry-Potter",
+        description:"amazing fiction story",
+        Price:1000,
+        currency:"Rs",
+        thumb:"./images/1.png"
+    },
+]
+
+export default Product_data;

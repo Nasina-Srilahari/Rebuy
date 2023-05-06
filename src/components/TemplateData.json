@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "image": "https://m.media-amazon.com/images/I/91SjQhhDsCL.jpg",
+        "title": "Who Was Mother Teresa",
+        "author":"Jim Gigloitte",
+        "edition": "Kindle Edition",
+        "price": 335     
+    },
+    {
+        "id": 2,
+        "image": "https://a7m3f5i5.rocketcdn.me/wp-content/uploads/2020/10/The-Disney-Princess-cookbook-review.jpg",
+        "title": "The Disney Princes CookBook",
+        "author":"Disney Books",
+        "edition": "Media tie-in Edition",
+        "price": 450
+    },
+    {
+        "id": 3,
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534316301l/41147610._SX318_.jpg",
+        "title": "Failure Is A Teacher",
+        "author":"A.P.J Abdul Kalam",
+        "edition": " First Edition",
+        "price": 600
+    },
+    {
+        "id": 4,
+        "image": "https://www.madrasshoppe.com/187731-large_default/the-man-who-knew-infinity-a-life-of-the-genius-ramanujan-robert-kanigel.jpg",
+        "title": "The Man Who know INFINITY",
+        "author":"Robert Kanigel",
+        "edition": " 4th Edition ",
+        "price": 500
+    },
+    {
+        "id": 5,
+        "image": "https://apollo-singapore.akamaized.net/v1/files/4k3eavknrg9r-IN/image;s=850x0",
+        "title": "INDIA Art and Culture",
+        "author":"Nithin Singhania",
+        "edition": "Third Edition",
+        "price": 1200
+    }
+
+]
